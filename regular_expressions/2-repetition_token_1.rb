@@ -4,7 +4,7 @@
 input_string = ARGV[0]
 
 # Define the regular expression pattern
-pattern = /Repetition Token #\d+ mandatory/
+pattern = /^hb*tn$/
 
 # Check if the input string matches the pattern
 if input_string.match(pattern)
