@@ -1,3 +1,2 @@
 #!/usr/bin/env ruby
-# Task3
-puts ARGV[0].scan(/hbt{1,5}n/).join
+puts ARVG[0].scan(/^hbt+n$/).join
