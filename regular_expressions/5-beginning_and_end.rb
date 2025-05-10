@@ -1,3 +1,3 @@
 #!/usr/bin/env ruby
-#task 5
+#task5
 puts ARGV[0].scan(/^h.n$/).join
